@@ -1,0 +1,22 @@
+# Ignore everything
+/*
+
+# But don't ignore these essential files/folders at the root
+!/.prettierrc
+!/package.json
+!/package-lock.json
+!/yarn.lock
+!/README.md
+!/webpack.config.js
+!/babel.config.js
+!/tsconfig.json
+
+# Except the src folder — include everything inside src
+!/src
+
+# Ignore common build and dependency folders
+/node_modules/
+/dist/
+/build/
+/coverage/
+/public/
