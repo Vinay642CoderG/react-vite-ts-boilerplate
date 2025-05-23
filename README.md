@@ -15,7 +15,7 @@ This is a modern boilerplate for building fast, scalable, and maintainable front
 - 📦 Optimized build with Vite
 - 🎯 TypeScript configured with strict settings
 - 🎨 Emotion for scoped, maintainable styling
-- 🧭 React Router setup with `ProtectedRoute` and `PublicRoute`
+- 🧭 React Router setup with `ProtectedRoute`
 - 🧱 Project structure ready for scaling
 - 🖼️ Custom build folders: JS in `js/`, CSS in `css/`, images in `img/`
 - ✅ ESLint + Prettier configured
